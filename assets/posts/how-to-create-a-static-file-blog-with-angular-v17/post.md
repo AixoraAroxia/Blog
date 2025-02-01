@@ -29,7 +29,7 @@ This command creates a new Angular project with a default structure.
 ## Designing the Blog Layout
 
 Design your blog's layout using Angular components. Create components for different parts of your blog, such as the header, footer, sidebar, and blog posts. Angular's component-based architecture makes it easy to manage and reuse code.
-![Blog Layout](/assets/posts/how-to-create-a-static-file-blog-with-angular-v17/wireframe.webp)
+![Blog Layout](./wireframe.webp)
 
 ## Static Content Management
 
