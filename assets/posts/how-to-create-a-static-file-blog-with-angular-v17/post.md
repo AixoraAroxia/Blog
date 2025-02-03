@@ -38,7 +38,7 @@ One of the key aspects of a static file blog is managing content. You can store 
 ## Implementing Routing
 
 Routing is crucial for navigating between different pages or blog posts. Angular's Router module helps in defining routes and navigating between them. For example, you can create a route for each blog post based on its filename.
-![Angular Routing Example](./assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-routing.png)
+![Angular Routing Example](./assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-routing2.webp)
 
 
 ## Building and Deploying
