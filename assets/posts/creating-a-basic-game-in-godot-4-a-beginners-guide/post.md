@@ -3,7 +3,7 @@ title: "Creating a Basic Game in Godot 4"
 subtitle: "A Beginner's Guide"
 author: "Happy developer"
 publicationDate: "2023-11-19"
-thumbnail: "/assets/posts/creating-a-basic-game-in-godot-4-a-beginners-guide/godot-game.png"
+thumbnail: ",/assets/posts/creating-a-basic-game-in-godot-4-a-beginners-guide/godot-game.png"
 slug: "creating-a-basic-game-in-godot-4-a-beginners-guide"
 ---
 

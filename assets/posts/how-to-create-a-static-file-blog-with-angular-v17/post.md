@@ -3,13 +3,13 @@ author: Chat GPT?
 title: "How to Create a Static File Blog"
 subtitle: "With Angular v17"
 publicationDate: 2023-11-19
-thumbnail: '/assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-logo.png'
+thumbnail: './assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-logo.png'
 slug: "how-to-create-a-static-file-blog-with-angular-v17"
 ---
 
 In the world of web development, creating a blog using static files has become increasingly popular. With the release of Angular v17, this task has become more efficient and user-friendly. Angular, known for its powerful features and ease of use, is an excellent choice for building a static file blog. In this post, we will explore how you can leverage Angular v17 to create a robust and scalable blog.
 
-![Angular Logo](/assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-logo.png)
+![Angular Logo](./assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-logo.png)
 
 ## Understanding Angular v17
 
@@ -38,7 +38,7 @@ One of the key aspects of a static file blog is managing content. You can store 
 ## Implementing Routing
 
 Routing is crucial for navigating between different pages or blog posts. Angular's Router module helps in defining routes and navigating between them. For example, you can create a route for each blog post based on its filename.
-![Angular Routing Example](/assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-routing.png)
+![Angular Routing Example](./assets/posts/how-to-create-a-static-file-blog-with-angular-v17/angular-routing.png)
 
 
 ## Building and Deploying
