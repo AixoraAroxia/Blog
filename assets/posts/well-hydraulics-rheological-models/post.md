@@ -3,7 +3,7 @@ author: ALEJANDRO SUBERO
 title: "Well Hydraulics and Rheological Models"
 subtitle: "Talk on Well Cleaning and Well Hydraulics"
 publicationDate: 2025-02-08
-thumbnail: './assets/posts/well-hydraulics-rheological-models/angular-logo.png'
+thumbnail: './assets/posts/well-hydraulics-rheological-models/drilling-fluid-circulation.webp'
 slug: "well-hydraulics-rheological-models"
 ---
 ## Rheological Models
@@ -102,67 +102,82 @@ In this model, the parameters **“𝑛”** and **“𝑘”** are defined the 
 	2) Consistency Index [K]
 	3) Yield Stress [t0]
 
-**Herschel–Bulkley Equations:**
+## **Herschel–Bulkley Equations:**
 
-**Drill Pipe:**
+## Drill Pipe:
 
 **Velocidad:**
-    ![Herschel–Bulkley Ec Velicidad](./assets/posts/well-hydraulics-rheological-models/p-velocidad.webp)
+
+![Herschel–Bulkley Ec Velicidad](./assets/posts/well-hydraulics-rheological-models/p-velocidad.webp)
+
 
 **Reynolds Number:**
-    ![Herschel–Bulkley Ec Reynolds Number](./assets/posts/well-hydraulics-rheological-models/p-reynolds-number.webp)   
+
+![Herschel–Bulkley Ec Reynolds Number](./assets/posts/well-hydraulics-rheological-models/p-reynolds-number.webp)   
+
 
 **Turbulence Criterion:**
-    ![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/p-turbulence-criterion.webp)
+
+![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/p-turbulence-criterion.webp)
     
     - If vc (Critical velocity) > v, the flow is laminar.
     - If vc (Critical velocity) < v, the flow is turbulent.
 
-  ![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/turbulence-criterion-2.webp)
+
+![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/turbulence-criterion-2.webp)
 
     - If Nrec (Critical Reynolds Number) > Nre is laminar.
     - If Nrec (Critical Reynolds Number) < Nre is turbulento.
 
+
 **Pressure Losses**
+
 **Laminar:**
-    ![Herschel–Bulkley Ec Pressure Losses laninar](./assets/posts/well-hydraulics-rheological-models/p-pressure-losses-laminar.webp)
+
+![Herschel–Bulkley Ec Pressure Losses laninar](./assets/posts/well-hydraulics-rheological-models/p-pressure-losses-laminar.webp)
 
 **Turbulent:**
-    ![Herschel–Bulkley Ec Pressure Losses Turbulent](./assets/posts/well-hydraulics-rheological-models/p-pressure-losses-trurbulent.webp)
+
+![Herschel–Bulkley Ec Pressure Losses Turbulent](./assets/posts/well-hydraulics-rheological-models/p-pressure-losses-trurbulent.webp)
 
 
-**Annular:**
+## Annular:
 
 **Velocidad:**
+
     ![Herschel–Bulkley Ec Velicidad](./assets/posts/well-hydraulics-rheological-models/a-velocidad.webp)
 
 **Reynolds Number:**
-    ![Herschel–Bulkley Ec Reynolds Number](./assets/posts/well-hydraulics-rheological-models/a-reynolds-number.webp)   
+
+![Herschel–Bulkley Ec Reynolds Number](./assets/posts/well-hydraulics-rheological-models/a-reynolds-number.webp)   
 
 **Turbulence Criterion:**
-    ![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/a-turbulence-criterion.webp)
+
+![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/a-turbulence-criterion.webp)
     
    - If vc (Critical velocity) > v, the flow is laminar.
    - If vc (Critical velocity) < v, the flow is turbulent.
 
-  ![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/turbulence-criterion-2.webp)
+![Herschel–Bulkley Ec Turbulence Criterion](./assets/posts/well-hydraulics-rheological-models/turbulence-criterion-2.webp)
 
     - If Nrec (Critical Reynolds Number) > Nre is laminar.
     - If Nrec (Critical Reynolds Number) < Nre is turbulento.
 
 **Pressure Losses**
 **Laminar:**
-    ![Herschel–Bulkley Ec Pressure Losses laninar](./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-laminar.webp)
+
+![Herschel–Bulkley Ec Pressure Losses laninar](./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-laminar.webp)
 
 **Turbulent:**
-    ![Herschel–Bulkley Ec Pressure Losses Turbulent](./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-trurbulent.webp)
+
+![Herschel–Bulkley Ec Pressure Losses Turbulent](./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-trurbulent.webp)
 
 
 ## Rheological Model Selection: 
 
 To compare rheological models, we determine which one best fits experimental data by calculating the error for each and selecting the model with the minimum error.
 
- ![Ec %Error](./assets/posts/well-hydraulics-rheological-models/error.webp)
+![Ec %Error](./assets/posts/well-hydraulics-rheological-models/error.webp)
 
  Where **𝜏𝑖** is the measured shear rate, and **𝜏𝑖** is the shear rate calculated by the model at each point. The selected model will be the one whose **“%Error”** value is closest to zero.
 
