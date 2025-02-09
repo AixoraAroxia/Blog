@@ -18,7 +18,6 @@ Hole stability and hole cleaning, rheological models, drill pipe eccentricity, f
 - Holes with Angles Greater than 70º.
 
 For the construction of high-angle wells, various aspects must be considered when designing the well, including:
-
 - Hole Stability.
 - Hole Cleaning.
 
@@ -35,13 +34,12 @@ Well stability is a consequence of the physical and chemical characteristics of 
 
 **Mechanical Instability:** It is caused by inadequate drilling fluid density, rock mechanics, excessive annular velocities, and ECD (Equivalent Circulating Density).
 
-
-## Holes may experience failures due to compression or tension.
+**Holes may experience failures due to compression or tension.**
 
 - **Hole Fracture:** Occurs when the pressure exceeds the tensile strength of the surrounding rocks.
 - **Hole Collapse:** Occurs when hole pressures are too low, potentially exceeding the compressive strength of the surrounding rocks.
 
-**"The density of the drilling fluid is a critical factor in controlling well stability."**
+    **"The density of the drilling fluid is a critical factor in controlling well stability."**
 
 
 ## Cuttings Transport
@@ -56,12 +54,10 @@ As the well angle increases, larger cuttings migrate to the lower side of the we
 The transport of cuttings from the bottom to the surface depends on two parameters: fluid and hydraulics.
 
 **Hydraulics fulfill this function through:**  
- 
 - Pressure drops.  
 - Annular velocity. 
 
 **Fluids fulfill this function through:**
- 
 - Viscosity.  
 - Density.  
 - Yield point, n, k, tau 0. 
