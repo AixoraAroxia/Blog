@@ -190,8 +190,7 @@ To compare rheological models, we determine which one best fits experimental dat
 | María   | 30   | Barcelona  |
 | Pedro   | 28   | Valencia   |
 
-<img src="./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-trurbulent.webp" alt="Herschel–Bulkley Ec Pressure Losses Turbulent" width="500">
-
+![Herschel–Bulkley Ec Pressure Losses Turbulent](./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-trurbulent.webp =300x200)
 
 
 ## Equivalent Mud Weight (EMW or ESD) (lb/gal, SG, kg/m³)
