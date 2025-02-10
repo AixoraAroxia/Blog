@@ -28,7 +28,7 @@ It is the study of the physical principles governing the movement and deformatio
 
 **“Part of the resistance to flow caused by mechanical friction is affected by the concentration of solids, the size, and the shape of solid particles.”**
 
-## Tipos de fluidos en general
+## Types of fluids in general
 
 - Newtonian
 - Non-Newtonian
@@ -102,7 +102,7 @@ In this model, the parameters **“𝑛”** and **“𝑘”** are defined the 
 	2) Consistency Index [K]
 	3) Yield Stress [t0]
 
-## **Herschel–Bulkley Equations:**
+**Herschel–Bulkley Equations:**
 
 ## Drill Pipe:
 
@@ -182,6 +182,17 @@ To compare rheological models, we determine which one best fits experimental dat
  Where **𝜏𝑖** is the measured shear rate, and **𝜏𝑖** is the shear rate calculated by the model at each point. The selected model will be the one whose **“%Error”** value is closest to zero.
 
 ## falta: Datos experimentales obtenidos en laboratorio 
+**<u>Texto subrayado y en negrita</u>**
+
+| Nombre  | Edad | Ciudad      |
+|:--------|:----:|-----------:|
+| Juan    | 25   | Madrid     |
+| María   | 30   | Barcelona  |
+| Pedro   | 28   | Valencia   |
+
+<img src="./assets/posts/well-hydraulics-rheological-models/a-pressure-losses-trurbulent.webp" alt="Herschel–Bulkley Ec Pressure Losses Turbulent" width="500">
+
+
 
 ## Equivalent Mud Weight (EMW or ESD) (lb/gal, SG, kg/m³)
 
